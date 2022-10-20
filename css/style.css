@@ -47,3 +47,20 @@ main section.row-users div.user{
     width: calc(100% / 7);
     border: 2px dotted blueviolet;
 }
+
+footer{
+    height: 6vh;
+    width: 100vw;
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+footer div.icon{
+    width: calc(100% / 3);
+    height: 80%;
+
+    border: 2px solid yellow;
+}
