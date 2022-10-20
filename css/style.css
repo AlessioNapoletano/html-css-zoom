@@ -34,7 +34,7 @@ header span.button-header{
 
 main{
     width: 100vw;
-    height: 86vh;
+    height: 88vh;
     background-color: #000000;
     display: flex;
     justify-content: center;
@@ -71,7 +71,7 @@ main section.row-users div.user .name-users{
 
 
 footer{
-    height: 9vh;
+    height: 7vh;
     width: 100vw;
     background-color: #222222;
     display: flex;
